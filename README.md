@@ -13,6 +13,6 @@ npm i -g
 ```bash
 findsymfonies PATH [PHP_PATHS] [FORMAT]
 ```
-- PATH: the parent path where the symfonies are stored in;
-- PHP_PATHS: pass a list of you php executables separated by '|' (eg. "/usr/bin/php|/opt/remi/php56/root/usr/bin/php");
-- FORMAT: table (default), pretty or json.
+- **PATH:** the parent path where the symfonies are stored in;
+- **PHP_PATHS:** pass a list of you php executables separated by '|' (eg. "/usr/bin/php|/opt/remi/php56/root/usr/bin/php");
+- **FORMAT:** table (default), pretty or json.
