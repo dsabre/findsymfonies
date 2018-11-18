@@ -84,6 +84,7 @@ if (dir) {
           break;
         case 'pretty':
           console.log('SYMFONIES FOUND:\n' + prettyjson.render(symfonies));
+          break;
         default:
           launchError('INVALID FORMAT');
       }
